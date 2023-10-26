@@ -1,6 +1,7 @@
 services:
   - type: web
-    name: hypertabs
+    name: hannahcool
     env: node
     buildCommand: npm install
     startCommand: npm start
+    plan: free
